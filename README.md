@@ -6,11 +6,6 @@
 
 <br />
 
-
-
-<img src="https://komarev.com/ghpvc/?username=aminsoheyli&color=blue&style=flat-square" align="right" />
-
-
 [linkedin]: https://www.linkedin.com/in/sadaf-asadollahi-339103141/
 
 <!--
