@@ -2,12 +2,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadafAsad&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### Connect with me:
 
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/sadaf-asadollahi-339103141/
-
+<a href="https://www.linkedin.com/in/sadaf-asadollahi-339103141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sadaf98x@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
 <!--
 **SadafAsad/SadafAsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
