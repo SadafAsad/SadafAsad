@@ -1,9 +1,9 @@
 
-### 📊 Stats
+### Stats
 
 ![SadafAsad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadafAsad&show_icons=true&theme=gruvbox)
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
