@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-![](https://img.shields.io/badge/Java-2496ED?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
